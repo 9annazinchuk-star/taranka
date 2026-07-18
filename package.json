@@ -1,0 +1,13 @@
+{
+  "name": "taranka",
+  "version": "1.0.0",
+  "private": true,
+  "main": "server.cjs",
+  "scripts": {
+    "start": "node server.cjs"
+  },
+  "dependencies": {
+    "dejavu-fonts-ttf": "^2.37.3",
+    "pdfkit": "^0.17.2"
+  }
+}
